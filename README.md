@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zin KO</h1>
 <h3 align="center">Passionate in Linux System Administrator, Networking and Web Development</h3>
 
-- 🔭 I’m currently working on **System Administrator**
-
 - 🌱 I’m currently learning **Linux, CCNA, Python, Web Dev,...**
 
 - 💬 Ask me about **Linux, CCNA, HTML, CSS**
